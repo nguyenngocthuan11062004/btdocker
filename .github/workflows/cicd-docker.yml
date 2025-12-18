@@ -32,7 +32,7 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: lamdb/it4409-sample:staging
+          tags: nguyenngocthuan11062004/btdocker:staging
 
   deploy:
     name: Deploy to Server
